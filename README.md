@@ -1,3 +1,9 @@
+# Final Result
+
+![Alt Text](https://media.giphy.com/media/3EkrAzVUUi89TMGygs/giphy.gif)
+![Alt Text](https://media.giphy.com/media/2PiKDs8JsX5unCdpLP/giphy.gif)
+![Alt Text](https://media.giphy.com/media/Sdzp1TMoY6quXdmg9B/giphy.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
